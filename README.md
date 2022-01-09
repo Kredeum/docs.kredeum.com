@@ -19,9 +19,11 @@ Kredeum NTFs is currently compatible with mainnet Ethereum, Matic, BSC (Binance 
 
 
 
-DAPP Kredeum NFTs is available here [https://beta.kredeum.com/](https://beta.kredeum.com)
+Please find some useful links
 
-Wordpress Kredeum NFTs plugin is available here [https://wordpress.org/plugins/kredeum-nfts/](https://wordpress.org/plugins/kredeum-nfts/)
+* Our main site: [https://www.kredeum.com/](https://www.kredeum.com)
+* Our DAPP Kredeum NFTs is available here [https://beta.kredeum.com/](https://beta.kredeum.com)
+* Our Wordpress Kredeum NFTs plugin is available here [https://wordpress.org/plugins/kredeum-nfts/](https://wordpress.org/plugins/kredeum-nfts/)
 
 
 

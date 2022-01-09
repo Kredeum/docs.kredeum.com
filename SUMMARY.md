@@ -7,7 +7,7 @@
   * [How to create your collection](kredeum-nfts-dapp/how-to-create-your-collection.md)
   * [How to create your NFTs](kredeum-nfts-dapp/how-to-create-your-nfts.md)
   * [Sell your NFTs](kredeum-nfts-dapp/sell-your-nfts.md)
-* [Wordpress Kredeum plugin User Guide](user-guide/README.md)
+* [Wordpress Kredeum plugin](user-guide/README.md)
   * [Plugin Installation](user-guide/installation.md)
   * [Plugin Settings](user-guide/settings.md)
   * [Archive your wordpress medias in IPFS](user-guide/archive.md)
