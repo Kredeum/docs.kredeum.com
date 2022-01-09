@@ -1,16 +1,18 @@
 ---
 description: Archive you media to IPFS
+cover: ../.gitbook/assets/banner-1544x500 (1).png
+coverY: 0
 ---
 
-# 1. Archive Medias
+# Archive your wordpress medias in IPFS
 
 ## Automatic
 
-When the Kredeum NFTs is installed, all your new medias are automatically archived to IPFS 
+When the Kredeum NFTs is installed, all your new medias are automatically archived to IPFS
 
 ## Manual
 
-To archive medias that are not yet archived, proceed like below : 
+To archive medias that are not yet archived, proceed like below :
 
 Go to the **Media** page of your WP Admin, select **Archive to IPFS** in the dropdown menu, **select the medias** you want to archive, then click **Apply**
 
@@ -20,9 +22,9 @@ Then your media is archived to IPFS
 
 ![](../.gitbook/assets/2\_archived.png)
 
-## Access 
+## Access
 
-To access to the archived version of your medias on IPFS 
+To access to the archived version of your medias on IPFS
 
 Go to the **Media** page of your WP Admin and click links in the **IPFS Archive** column
 
@@ -32,4 +34,4 @@ And your will get your medias from one IPFS gateway, your unique IPFS identifier
 
 > bafkreidxflrui7pwvbtzwbgxvgvhvytknkybmc6gppwrvej63cqxegwt6m
 
-![](../.gitbook/assets/2\_ipfs_archive.png)
+![](../.gitbook/assets/2\_ipfs\_archive.png)

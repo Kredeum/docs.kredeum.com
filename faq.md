@@ -1,5 +1,7 @@
 ---
 description: All the answers to your questions around Kredeum NFTs plugin...
+cover: .gitbook/assets/Screenshot 2022-01-06 at 19.42.41.png
+coverY: 0
 ---
 
 # FAQ
@@ -8,7 +10,7 @@ description: All the answers to your questions around Kredeum NFTs plugin...
 
     We mainly supports Polygon/Matic and Ethereum, and also BSC, Fantom and Avalanche.
 
-    _Kredeum NFTs is also available on some testnets _
+    _Kredeum NFTs is also available on some testnets_&#x20;
 2.  **Is it possible to mint NFT's directly to OpenSea ? Basically creating an NFT collection**
 
     In next version it will be possible to create personalized NFT collection...
@@ -33,9 +35,9 @@ description: All the answers to your questions around Kredeum NFTs plugin...
     _Access to some beta feature, will be soon available on stable version_
 6.  _**What type of media can I Mint ?**_
 
-    At the moment, you can Mint images (jpeg, png types). 
+    At the moment, you can Mint images (jpeg, png types).&#x20;
 
-    Kredeum NFTs roadmap included other types like video, sound, pdf, etc... 
+    Kredeum NFTs roadmap included other types like video, sound, pdf, etc...&#x20;
 7.  **Do I have to pay Kredeum to Mint NFTs ?**
 
     The quick answer is No.
