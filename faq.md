@@ -8,7 +8,7 @@ coverY: 0
 
 1.  **What blockchain to you support ?**
 
-    We support Polygon/Matic and Ethereum, and also BSC, Fantom and Avalanche.
+    We support Polygon/Matic, Ethereum, BSC, Fantom and Avalanche.
 2.  **Is it possible to mint NFT's directly to OpenSea ? Basically creating a NFT collection**
 
     Yes you can mint directly in Opensea. But our solution allows you to create your own collection and your own NFT without dependancy with OpenSea. Our solution is fully compatible with OpenSea as all NFTs created in our DAPP or using our plugin will also appear automatically in OpenSea. In our development roadmap, you'll be able to select advanced collections (Royalties ....).&#x20;
