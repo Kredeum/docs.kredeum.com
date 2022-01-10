@@ -8,16 +8,10 @@ coverY: 0
 
 1.  **What blockchain to you support ?**
 
-    We mainly supports Polygon/Matic and Ethereum, and also BSC, Fantom and Avalanche.
+    We support Polygon/Matic and Ethereum, and also BSC, Fantom and Avalanche.
+2.  **Is it possible to mint NFT's directly to OpenSea ? Basically creating a NFT collection**
 
-    _Kredeum NFTs is also available on some testnets_&#x20;
-2.  **Is it possible to mint NFT's directly to OpenSea ? Basically creating an NFT collection**
-
-    In next version it will be possible to create personalized NFT collection...
-
-    _This beta feature is already included in dev version... (see 5/)_
-
-    Collection NFTs that you can exchange on whatever Open Marketplace... like OpenSea for example.
+    Yes you can mint directly in Opensea. But our solution allows you to create your own collection and your own NFT without dependancy with OpenSea. Our solution is fully compatible with OpenSea as all NFTs created in our DAPP or using our plugin will also appear automatically in OpenSea. In our development roadmap, you'll be able to select advanced collections (Royalties ....).&#x20;
 3.  **Do you support ERC115 ?**
 
     Currently Kredeum NFTs plugin mint ERC721 NFTs and can display most of your NFTs ERC721 or ERC1155 (depends on the network)
@@ -25,7 +19,7 @@ coverY: 0
     In the future ERC1155 may be used to implement mulmedia NFT types : i.e. sounds, videos, pdf, etc...
 4.  **For pictures that I already have in my library... should I re-upload them so they get IPFS archived?**
 
-    No, that's not needed, just follow the instruction here : [user-guide/archive](https://docs.kredeum.tech/user-guide/archive)
+    You can store any of your medias into IPSF as described [here](user-guide/archive.md)&#x20;
 5.  **Where can I find the beta version ?**
 
     You can find latest dev version on the WordPress portal, in the link at the bottom of this page : [https://wordpress.org/plugins/kredeum-nfts/advanced/](https://wordpress.org/plugins/kredeum-nfts/advanced/)
