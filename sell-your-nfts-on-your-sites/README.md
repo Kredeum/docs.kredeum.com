@@ -25,4 +25,25 @@ Please find a wordpress page example: [https://www.kredeum.org/sardaigna/](https
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-11-02 at 23.16.37.png" alt=""><figcaption><p>Above wordress page displaying NFT ready to sell and buy !</p></figcaption></figure>
 
-&#x20;BUILD you own NFT Marketplaces !
+You can also Buy snippet as ...
+
+```
+<div class="kre-buy-front" chainid="137" address="0xafA2517fA3e9C64FBA97F8D0F5773ac5a2C79255" tokenID="1" platform="buy-external">
+<script defer src="https://beta.kredeum.com/assets/kredeum-nfts.js"></script>
+<script>
+var newLink = document.createElement("link");
+newLink.href = "https://beta.kredeum.com/assets/kredeum-nfts.css";
+newLink.rel = "stylesheet";
+newLink.type = "text/css";
+document.getElementsByTagName("head")[0].appendChild(newLink);
+var newLink2 = document.createElement("link");
+newLink2.href = "https://beta.kredeum.com/assets/css/front.css";
+newLink2.rel = "stylesheet";
+newLink2.type = "text/css";
+document.getElementsByTagName("head")[0].appendChild(newLink2);
+</script></div>
+```
+
+&#x20;
+
+BUILD you own NFT Marketplaces !
