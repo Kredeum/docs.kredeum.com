@@ -25,7 +25,7 @@ Please find a wordpress page example: [https://www.kredeum.org/sardaigna/](https
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-11-02 at 23.16.37.png" alt=""><figcaption><p>Above wordress page displaying NFT ready to sell and buy !</p></figcaption></figure>
 
-You can also Buy snippet as ...
+You can also add the following code (Buy snippet) in any of your web pages ! It will automatically display the NFT and Sell / Buy button for web users :)
 
 ```
 <div class="kre-buy-front" chainid="137" address="0xafA2517fA3e9C64FBA97F8D0F5773ac5a2C79255" tokenID="1" platform="buy-external">
