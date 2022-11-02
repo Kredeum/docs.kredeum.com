@@ -2,9 +2,9 @@
 
 * [Welcome](README.md)
 * [Pre-requirements](pre-requirements.md)
-* [Sell your NFTs wherever you want !](sell-your-nfts-wherever-you-want/README.md)
-  * [1 / Create a basic NFT collection](sell-your-nfts-wherever-you-want/1-create-a-basic-nft-collection.md)
-  * [2 / Create a royaltie NFT collection](sell-your-nfts-wherever-you-want/2-create-a-royaltie-nft-collection.md)
+* [Sell your NFTs on your sites !](sell-your-nfts-on-your-sites/README.md)
+  * [1 / Create a basic NFT collection](sell-your-nfts-on-your-sites/1-create-a-basic-nft-collection.md)
+  * [2 / Create a royaltie NFT collection](sell-your-nfts-on-your-sites/2-create-a-royaltie-nft-collection.md)
 * [Kredeum NFTs DAPP](kredeum-nfts-dapp/README.md)
   * [Open your NFT wallet](kredeum-nfts-dapp/open-your-nft-wallet.md)
   * [How to create your collection](kredeum-nfts-dapp/how-to-create-your-collection.md)

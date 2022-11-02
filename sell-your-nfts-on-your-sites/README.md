@@ -1,8 +1,10 @@
 ---
-description: The easiest way to sell your NFTs
+description: >-
+  The easiest way to sell your NFTs. Stop using centralized NFT marketplaces ! 
+  Sell your NFTs on the sites you want ! In a real decentralized way :)
 ---
 
-# Sell your NFTs wherever you want !
+# Sell your NFTs on your sites !
 
 You can can create different types of NFT collections inside our NFT Factory:
 
