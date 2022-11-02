@@ -1,6 +1,6 @@
 # Open your NFT wallet
 
-If it's first time you open [https://beta.kredeum.com/](https://beta.kredeum.com) and you are not yet logged on Metamask, you'll see a button "Connect to Metamask". Just click on it!&#x20;
+If it's first time you open [https://beta.kredeum.com/](https://beta.kredeum.com/) and you are not yet logged on Metamask, you'll see a button "Connect to Metamask". Just click on it!&#x20;
 
 ![](<../.gitbook/assets/Screenshot 2022-01-09 at 22.53.19.png>)
 

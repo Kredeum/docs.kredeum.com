@@ -6,9 +6,9 @@ coverY: 0
 
 # Kredeum NFTs DAPP inside Wordpress
 
-We integrate Kredeum DAPP (same than one found here [https://beta.kredeum.com/](https://beta.kredeum.com)) in your Wordpress, just click on NFTs > NFTs Kredeum:
+We integrate Kredeum DAPP (same than one found here [https://beta.kredeum.com/](https://beta.kredeum.com/)) in your Wordpress, just click on NFTs > NFTs Kredeum:
 
-![](<../.gitbook/assets/Screenshot 2022-01-06 at 19.27.23.png>)
+![](<../.gitbook/assets/Screenshot 2022-11-02 at 18.24.59.png>)
 
 As on the public Kredeum DAPP, you can :
 
@@ -22,4 +22,4 @@ AND you can also:
 
 1. **Copy a shortcode** you can add in Wordpress posts / pages to redirect easily user to your NFT OpenSea page
 
-![](<../.gitbook/assets/Screenshot 2022-01-06 at 19.30.36.png>)
+![](<../.gitbook/assets/Screenshot 2022-11-02 at 18.25.41.png>)

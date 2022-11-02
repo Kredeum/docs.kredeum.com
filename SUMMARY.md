@@ -2,6 +2,9 @@
 
 * [Welcome](README.md)
 * [Pre-requirements](pre-requirements.md)
+* [Kredeum NFT Factory](kredeum-nft-factory/README.md)
+  * [1 / Create a basic collection](kredeum-nft-factory/1-create-a-basic-collection.md)
+  * [2 / Create a royaltie collection](kredeum-nft-factory/2-create-a-royaltie-collection.md)
 * [Kredeum NFTs DAPP](kredeum-nfts-dapp/README.md)
   * [Open your NFT wallet](kredeum-nfts-dapp/open-your-nft-wallet.md)
   * [How to create your collection](kredeum-nfts-dapp/how-to-create-your-collection.md)
@@ -13,6 +16,7 @@
   * [Archive your wordpress medias in IPFS](user-guide/archive.md)
   * [Mint your NFTs directly in your Wordpress media library](user-guide/mint-nfts.md)
   * [Kredeum NFTs DAPP inside Wordpress](user-guide/nfts-kredeum.md)
-  * [Add shortcode NFT Sell button in posts and pages](user-guide/3.-sell.md)
+  * [Add shortcode NFT "View on Opensea"](user-guide/3.-sell.md)
+  * [Add shortcode NFT "Sell on Wordpress" and create your own Market place !](user-guide/3.-sell-1.md)
 * [FAQ](faq.md)
 * [About](about.md)
