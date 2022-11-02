@@ -14,3 +14,15 @@ You can can create different types of NFT collections inside our NFT Factory:
   * You can sell your NFTs directly on your wordpress sites without asking your users to buy on external and centralised NFT marketplaces with dedicated **SHORTCODES**
   * You can even ... sell your NFTs on any websites with our "**BUY SNIPPET**"
   * You can use the standard royalties
+
+Please find a wordpress page example: [https://www.kredeum.org/sardaigna/](https://www.kredeum.org/sardaigna/) that has been created with wordpress kredeum shortcodes, displaying automatically NFT images and then allowing users to sell and buy NFTs directly on this wordpress page !
+
+<figure><img src="../.gitbook/assets/Screenshot 2022-11-02 at 23.41.25.png" alt=""><figcaption><p>Above Wordress page back office with Kredeum shortcodes</p></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2022-11-02 at 23.16.24.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2022-11-02 at 23.16.37.png" alt=""><figcaption><p>Above wordress page displaying NFT ready to sell and buy !</p></figcaption></figure>
+
+&#x20;BUILD you own NFT Marketplaces !
