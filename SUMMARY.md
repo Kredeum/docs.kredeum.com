@@ -2,9 +2,9 @@
 
 * [Welcome](README.md)
 * [Pre-requirements](pre-requirements.md)
-* [Kredeum NFT Factory](kredeum-nft-factory/README.md)
-  * [1 / Create a basic NFT collection](kredeum-nft-factory/1-create-a-basic-nft-collection.md)
-  * [2 / Create a royaltie NFT collection](kredeum-nft-factory/2-create-a-royaltie-nft-collection.md)
+* [Kredeum NFTs Factory concept](kredeum-nfts-factory-concept/README.md)
+  * [1 / Create a basic NFT collection](kredeum-nfts-factory-concept/1-create-a-basic-nft-collection.md)
+  * [2 / Create a royaltie NFT collection](kredeum-nfts-factory-concept/2-create-a-royaltie-nft-collection.md)
 * [Kredeum NFTs DAPP](kredeum-nfts-dapp/README.md)
   * [Open your NFT wallet](kredeum-nfts-dapp/open-your-nft-wallet.md)
   * [How to create your collection](kredeum-nfts-dapp/how-to-create-your-collection.md)
