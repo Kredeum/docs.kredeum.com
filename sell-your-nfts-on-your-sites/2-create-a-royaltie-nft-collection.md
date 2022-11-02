@@ -89,7 +89,7 @@ Now you can see your NFT data as:
 
 Then just add the NFT buy snippet or NFT wordpress shortcodes on your web pages as [https://www.kredeum.org/sardaigna/](https://www.kredeum.org/sardaigna/)
 
-Following page hase been created on a wordpress page
+For example [https://www.kredeum.org/sardaigna/](https://www.kredeum.org/sardaigna/)  has been created on a wordpress page with wordpress kredeum shortcodes, displaying automatically NFT images and buy buttons ...&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-11-02 at 23.19.37.png" alt=""><figcaption></figcaption></figure>
 
