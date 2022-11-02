@@ -20,7 +20,7 @@ Select **AUTOMARKET**, define&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-11-02 at 22.51.38.png" alt=""><figcaption></figcaption></figure>
 
-Follow collection steps:
+Follow NFT collection creation steps:
 
 {% tabs %}
 {% tab title="Validate" %}

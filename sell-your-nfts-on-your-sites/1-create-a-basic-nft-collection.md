@@ -14,7 +14,7 @@ Select **OPENNFTS**, define a collection name and a symbol collection
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-11-02 at 22.28.23.png" alt=""><figcaption></figcaption></figure>
 
-Follow collection steps:
+Follow NFT collection creation steps:
 
 {% tabs %}
 {% tab title="Validate" %}
