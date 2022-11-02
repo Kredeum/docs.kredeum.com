@@ -2,7 +2,7 @@
 description: Our royaltie collection type is named "AutoMarket"
 ---
 
-# 2 / Create a royaltie collection
+# 2 / Create a royaltie NFT collection
 
 On Alpha / Beta DAPP and from v0.17.0 wordpress version plugin
 

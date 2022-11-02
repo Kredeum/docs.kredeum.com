@@ -2,7 +2,7 @@
 description: The easiest way to sell your NFTs
 ---
 
-# Kredeum NFT Factory
+# Sell your NFTs wherever you want !
 
 You can can create different types of NFT collections inside our NFT Factory:
 

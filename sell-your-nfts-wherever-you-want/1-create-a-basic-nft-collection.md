@@ -2,7 +2,7 @@
 description: Our basic collection type is named "OpenNFTs"
 ---
 
-# 1 / Create a basic collection
+# 1 / Create a basic NFT collection
 
 On Alpha / Beta DAPP and from v0.17.0 wordpress version plugin
 
