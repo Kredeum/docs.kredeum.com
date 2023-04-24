@@ -5,7 +5,7 @@ coverY: 0
 
 # Kredeum NFTs DAPP
 
-DAPP Kredeum NFTs is available here [https://beta.kredeum.com/](https://beta.kredeum.com/)
+DAPP Kredeum NFTs is available here [https://app.kredeum.com/](https://app.kredeum.com/)
 
 If not yet connected to Metamask, please click on "Connect to Metamask":
 

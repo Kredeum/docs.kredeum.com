@@ -1,5 +1,5 @@
 ---
-description: Documentation on Kredeum NFTs DAPP (Beta) & WordPress plugin v0.17.0 (Beta)
+description: Documentation on Kredeum NFTs DAPP & WordPress plugin v1.1.0
 cover: .gitbook/assets/Screenshot 2022-01-06 at 19.42.41.png
 coverY: 0
 ---
@@ -15,7 +15,7 @@ Kredeum NFTs allows you to :
 3. Mint your images as NFTs
 4. Sell them on your Wordpress site or on a NFT MarketPlace ([OpenSea](https://opensea.io/))
 
-Kredeum NTFs is currently compatible with mainnet Ethereum, Matic, Arbitrum, Optimism, xDAI, BSC (Binance Smart Chain), Fantom and Avalanche networks.
+Kredeum NTFs is currently compatible with mainnet Ethereum, Matic, Arbitrum, Optimism, BSC (Binance Smart Chain), Fantom, Avalanche, Gnosis networks.
 
 
 
@@ -23,8 +23,7 @@ Please find some useful links
 
 * Our main site: [https://www.kredeum.com/](https://www.kredeum.com/)
 * Our Wordpress Kredeum NFTs plugin is available here [https://wordpress.org/plugins/kredeum-nfts/](https://wordpress.org/plugins/kredeum-nfts/)
-* Our Beta DAPP Kredeum NFTs is available here [https://beta.kredeum.com/](https://beta.kredeum.com/)
-* Our Alpha DAPP Kredeum NFTs is available here [https://alpha.kredeum.com/](https://beta.kredeum.com/)
+* Our DAPP Kredeum NFTs is available here [https://app.kredeum.com/](https://app.kredeum.com/)
 
 
 
