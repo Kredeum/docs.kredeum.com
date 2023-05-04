@@ -1,5 +1,5 @@
 ---
-description: Documentation on Kredeum NFTs DAPP & WordPress plugin v1.1.0
+description: Documentation on Kredeum NFTs DAPP & WordPress plugin v1.1.4
 cover: .gitbook/assets/Screenshot 2022-01-06 at 19.42.41.png
 coverY: 0
 ---
