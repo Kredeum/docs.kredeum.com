@@ -18,7 +18,6 @@
   * [Archive your wordpress medias in IPFS](user-guide/archive.md)
   * [Mint your NFTs directly in your Wordpress media library](user-guide/mint-nfts.md)
   * [Kredeum NFTs DAPP inside Wordpress](user-guide/nfts-kredeum.md)
-  * [Add shortcode NFT "View on Opensea"](user-guide/3.-sell.md)
-  * [Add shortcode NFT "Sell on Wordpress" and create your own Market place !](user-guide/3.-sell-1.md)
+  * [Add "NFT shortcode" or "COLLECTION shortcode" and sell NFTs](user-guide/3.-sell.md)
 * [FAQ](faq.md)
 * [About](about.md)

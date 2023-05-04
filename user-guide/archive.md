@@ -14,9 +14,9 @@ When the Kredeum NFTs is installed, all your new medias are automatically archiv
 
 To archive medias that are not yet archived, proceed like below :
 
-Go to the **Media** page of your WP Admin, select **Archive to IPFS** in the dropdown menu, **select the medias** you want to archive, then click **Apply**
+Go to the **Media** page of your WP Admin, select **Archive Storage** in the dropdown menu, **select the medias** you want to archive, then click **Apply**
 
-![](../.gitbook/assets/1\_archive.png)
+<figure><img src="../.gitbook/assets/Screenshot 2023-05-04 at 18.57.42.png" alt=""><figcaption></figcaption></figure>
 
 Then your media is archived to IPFS
 

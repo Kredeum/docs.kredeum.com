@@ -20,6 +20,10 @@ As on the public Kredeum DAPP, you can :
 
 AND you can also:
 
-1. **Copy a shortcode** you can add in Wordpress posts / pages to redirect easily user to your NFT OpenSea page
+1. **Copy a shortcode** you can add in Wordpress posts / pages to redirect easily user to your NFT OpenSea page. For this, please click on "Share" button then "COPY NFT SHORTCODE"
 
-![](<../.gitbook/assets/Screenshot 2022-11-02 at 18.25.41.png>)
+<figure><img src="../.gitbook/assets/Screenshot 2023-05-04 at 19.03.08.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-05-04 at 19.04.11.png" alt=""><figcaption></figcaption></figure>
+
+Note you can also copy the COLLECTION SHORTCODE also.

@@ -22,10 +22,14 @@ To MINT a NFTs form one of your media, just click the **MINT NFT** button
 
 ![](<../.gitbook/assets/Screenshot 2021-05-20 at 15.20.14.png>)
 
-Note that NFT Mint will be done on selected blockchain and selected collection defined in plugin settings as described [here](settings.md).
+By default selected blockchain and selected collection defined in plugin settings as described [here](settings.md). Then you can fill all date found in NFT edit form:
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-05-04 at 19.00.43.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-05-04 at 19.01.14.png" alt=""><figcaption></figcaption></figure>
 
 You will have to **accept the MINT transaction**, so you need some Matic Token to pay gas cost, but this will cost you much less than a cent of 0,001 $
 
 ![](../.gitbook/assets/4\_minting.png)
 
-Now you \*\*NFT is minted \*\*, and you can [**sell it on a NFT MarketPlace**](3.-sell.md) !
+Now you \*\*NFT is minted \*\*, and you can sell your NFT !&#x20;
